@@ -1,7 +1,7 @@
 isp-cable
 =========
 
-a isp(8051/avr) flashing cable.
+an isp(8051/avr) flashing cable.
 
 ### overview
 ![top](photo/isp-top.jpg)
